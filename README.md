@@ -33,4 +33,4 @@
 ### 3.Model picks K entries in the database which are closest to the new data point.
 ### 4.Then it does the majority vote i.e the most common class/label among those K entries will be the class of the new data point.
 ##  By using the Knn technique we have found the accuracy 
-# Thank you
+# Thank You 

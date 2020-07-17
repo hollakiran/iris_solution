@@ -1,6 +1,5 @@
 # IRIS FLOWER SOLUTION PROJECT
-# reference statement :
-# "Assignment during Online Internship with DLithe(www.dlithe.com)"
+## reference statement :"Assignment during Online Internship with DLithe(www.dlithe.com)"
 ## Project:Iris flower classification using Machine Learning
 ### Machine Learning in python: 
 #### Machine learning is is the kind of programming which gives computers the capability to automatically learn from data without being explicitly programmed. 
